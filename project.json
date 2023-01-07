@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "可交互的五十音壁纸，修改img文件夹下photo.png即可更改壁纸；\r\n鼠标位于平假名上半部分显示片假名，下半部分显示罗马音；\r\n在三个音块的左上角有一小块隐藏触控方块，鼠标移动到上面即会显示，长按超过一秒后会进入设置模式，可以对该音块进行拖动或缩放，点击确认即可退出设置模式；\r\n壁纸左上角有一隐藏方块，长按即可重置三个音块的位置；",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.8588235294117647 0.7490196078431373 0.807843137254902"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "RE0:爱米莉亚×五十音",
+	"type" : "Web",
+	"version" : 19,
+	"visibility" : "public",
+	"workshopid" : "2557924611",
+	"workshopurl" : "steam://url/CommunityFilePage/2557924611"
+}
